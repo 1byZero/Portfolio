@@ -15,14 +15,14 @@ const Home: NextPage = () => {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Amit Kumar" />
         <meta property="og:description" content="personal portfolio app" />
-        <meta property="og:image" content={logo} />
+        <meta property="og:image" content={logo.src} />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="janhvipatil.me" />
         <meta property="twitter:url" content="https://janhvipatil.me" />
         <meta name="twitter:title" content="Amit Kumar" />
         <meta name="twitter:description" content="personal portfolio app" />
-        <meta name="twitter:image" content={logo} />
+        <meta name="twitter:image" content={logo.src} />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
