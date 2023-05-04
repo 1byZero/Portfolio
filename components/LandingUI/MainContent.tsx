@@ -60,9 +60,9 @@ export const MainContent = () => {
                     </Heading>
                 </Stack>
                 <Text as='p' fontSize={{ base: 'md', md: 'lg' }} color='gray.500'>
-                    I&apos;m a full-stack software developer with experience in product management.
+                    I&apos;m a full-stack software developer & Solutions Arctitect with experience in product management.
                     {/* I help create applications that address customer needs and solve complex business challenges. */}
-                    My expertise lies within Back-end web app development and my go-to tech stack includes
+                    My expertise lies within Back-end Software development and my go-to tech stack includes
                     TypeScript, React, NextJS, Frappe, Python, SQL and HTML & CSS.
                     I&apos;m a lifelong learner (currently taking a few courses on GO language) and love to read,
                     travel and explore new places and cultures.
