@@ -15,7 +15,7 @@ const Home: NextPage = () => {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Amit Kumar" />
         <meta property="og:description" content="personal portfolio app" />
-        <meta property="og:image" content={logo} />
+        <meta property="og:image" content={logo.src} />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="amit.worf.in" />
