@@ -57,11 +57,9 @@ const Work = (props: Props) => {
                             companyName='PayTm Payments Bank'
                             companylink='https://paytm.com'
                             location='Noida, India'
-                            jobdetails='My Asset Buddy is a SaaS startup that helps enterprises create and manage industrial asset data.
-                            Being one of the first 3 employees, I was lucky enough to be a part of every phase of the product from requirement 
-                            gathering and design to implementation.
+                            jobdetails='Paytm is an Indian multinational financial technology company, that specializes in digital payments and financial services, based in Noida. 
                             Here I got the opportunity to work in frontend, backend, devOps, design and much more. I designed and created the 
-                            company webiste, set up SEO, sitemap and hosting.
+                            company backend, set up SEO, sitemap and hosting.
                             My responsibilities on the product side included planning sprints, leading projects, designing and creating features, writing APIs, 
                             code reviews, testing, moderating daily stand-up calls and creating deliverable reports for each sprint.'
                             jobdetails2='I was also responsible for mentoring and supervising our software development intern. This job not only helped
@@ -78,16 +76,15 @@ const Work = (props: Props) => {
                             companyName='Worf Internet Services Pvt. Ltd.'
                             companylink='https://worf.in'
                             location='Noida, India'
-                            jobdetails='MedBuyer is a medical equipment marketplace for hospitals. It is a startup venture founded by a group of
-                            medical consultants who wanted to digitise and scale up their operations. Here I worked as a software developer and
-                            scrum master. My responsibilities included creating and shipping new features, adding improvements to the existing software,
+                            jobdetails='Worf is a reliable and cost-effective provider of web development & IT security solutions . Here I worked as a Founder and Full Stack developer. 
+                            My responsibilities included creating and shipping new features, adding improvements to the existing web application,
                             moderating daily standup meetings, planning our monthly sprints and creating deliverable reports for our business team.
                             I closely worked with our testing and support team on technical issues including software system design, maintenance and performance.'
-                            jobdetails2='One of my key achievements at MedBuyer would be my inputs/work on improving our UX by adding empty states wherever necessary,
+                            jobdetails2='One of my key achievements at  would be my inputs/work on improving our UX by adding empty states wherever necessary,
                             help buttons with information on how to use a feature and adding Sign-In with Google for ease of entry for the users.'
                         />
 
-<JobInfoBox
+                         <JobInfoBox
                             logo={adwayslogo}
                             logoWidth='150px'
                             logoHeight='55px'
@@ -97,8 +94,8 @@ const Work = (props: Props) => {
                             companyName='Adways VC India Private Limited'
                             companylink='https://adwaysvc.com/'
                             location='Gurugram, India'
-                            jobdetails='My Asset Buddy is a SaaS startup that helps enterprises create and manage industrial asset data.
-                            Being one of the first 3 employees, I was lucky enough to be a part of every phase of the product from requirement 
+                            jobdetails='Adways VC India Pvt. Ltd. which is a JV with Tokyo Stock Exchange listed company Adways Inc. (Japan), the No.1 Affiliate Marketing company in Asia on PC & Mobile.
+                            I was lucky enough to be a part of every phase of the product from requirement 
                             gathering and design to implementation.
                             Here I got the opportunity to work in frontend, backend, devOps, design and much more. I designed and created the 
                             company webiste, set up SEO, sitemap and hosting.
@@ -118,9 +115,8 @@ const Work = (props: Props) => {
                             companyName='Keiko International'
                             companylink='https://keikointernational.com'
                             location='Ghaziabad, India'
-                            jobdetails='I worked in the CLOUD department for Satmetrix 
-                            (enterprise product that NICE licenses). My job entailed 
-                            administering the JBoss and HTTP Apache servers, deploying new releases/hotfixes
+                            jobdetails='Keiko International is a Industrial Automation Company and I worked in the CLOUD department.
+                            My job entailed administering the JBoss and HTTP Apache servers, deploying new releases/hotfixes
                             of our software to both staging and production environments, provisioning/ de-provisioning
                             servers for our clients, managing Globalscape FTP, DNS, Mail and MySQL servers of Satmetrix&apos;s environments,
                             troubleshooting server performance issues and creating root cause analysis reports. I also helped solve tickets raised
@@ -129,7 +125,7 @@ const Work = (props: Props) => {
                             different departments. My team also won the best team in the cloud department award for three quarters in a row.'
                         />
 
-<JobInfoBox
+                         <JobInfoBox
                             logo={youthbuzz}
                             logoWidth='110px'
                             logoHeight='35px'
@@ -139,8 +135,7 @@ const Work = (props: Props) => {
                             companyName='YouthBuzz Educom LLP'
                             companylink='https://youthbuzz.com'
                             location='Mumbai, India'
-                            jobdetails='I worked in the CLOUD department for Satmetrix 
-                            (enterprise product that NICE licenses). My job entailed 
+                            jobdetails='Youth Buzz is an augmented and virtual reality application for the education sector. My job entailed 
                             administering the JBoss and HTTP Apache servers, deploying new releases/hotfixes
                             of our software to both staging and production environments, provisioning/ de-provisioning
                             servers for our clients, managing Globalscape FTP, DNS, Mail and MySQL servers of Satmetrix&apos;s environments,
@@ -150,7 +145,7 @@ const Work = (props: Props) => {
                             different departments. My team also won the best team in the cloud department award for three quarters in a row.'
                         />
                         
-                        <JobInfoBox
+                         <JobInfoBox
                             logo={techbotlogo}
                             logoWidth='110px'
                             logoHeight='35px'
@@ -160,9 +155,8 @@ const Work = (props: Props) => {
                             companyName='TechBot Support'
                             companylink='https://techbotsupport.com'
                             location='Gurugram, India'
-                            jobdetails='I worked in the CLOUD department for Satmetrix 
-                            (enterprise product that NICE licenses). My job entailed 
-                            administering the JBoss and HTTP Apache servers, deploying new releases/hotfixes
+                            jobdetails='TECH BOT offers its state-of-the-art Managed Service Desk offices in UAE and INDIA. It also provides Around-the-clock network surveillance; Performance monitoring
+                            My job entailed administering the JBoss and HTTP Apache servers, deploying new releases/hotfixes
                             of our software to both staging and production environments, provisioning/ de-provisioning
                             servers for our clients, managing Globalscape FTP, DNS, Mail and MySQL servers of Satmetrix&apos;s environments,
                             troubleshooting server performance issues and creating root cause analysis reports. I also helped solve tickets raised
