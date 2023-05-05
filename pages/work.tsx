@@ -155,7 +155,7 @@ const Work = (props: Props) => {
                             companyName='TechBot Support'
                             companylink='https://techbotsupport.com'
                             location='Gurugram, India'
-                            jobdetails='TECH BOT offers its state-of-the-art Managed Service Desk offices in UAE and INDIA. It also provides Around-the-clock network surveillance; Performance monitoring
+                            jobdetails='TechBot Support offers its state-of-the-art Managed Service Desk offices in UAE and INDIA. It also provides Around-the-clock network surveillance; Performance monitoring
                             My job entailed administering the JBoss and HTTP Apache servers, deploying new releases/hotfixes
                             of our software to both staging and production environments, provisioning/ de-provisioning
                             servers for our clients, managing Globalscape FTP, DNS, Mail and MySQL servers of Satmetrix&apos;s environments,

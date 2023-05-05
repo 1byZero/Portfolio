@@ -33,7 +33,7 @@ export const MainContent = () => {
                             <Box>
                                 <Typewriter
                                     options={{
-                                        strings: ['Software developer', 'Founder', 'DevOps Engineer', 'open-source contributor', 'Artist'],
+                                        strings: ['Software developer', 'Solutions Architect', 'DevOps Engineer', 'Problem Solver'],
                                         autoStart: true,
                                         loop: true,
                                     }}
@@ -50,7 +50,7 @@ export const MainContent = () => {
                             <Box>
                                 <Typewriter
                                     options={{
-                                        strings: ['Software developer', 'Founder', 'DevOps Engineer', 'open-source contributor', 'Artist'],
+                                        strings: ['Software developer', 'Solutions Architect', 'DevOps Engineer', 'Problem Solver'],
                                         autoStart: true,
                                         loop: true,
                                     }}
