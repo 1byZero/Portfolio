@@ -7,10 +7,10 @@ import { Logo } from '../Logo/Logo'
 import { HiDownload } from 'react-icons/hi'
 
 const Links = [
-    {
-        name: "Projects",
-        path: "/projects",
-    },
+    // {
+    //     name: "Projects",
+    //     path: "/projects",
+    // },
     {
         name: "Work",
         path: "/work",
