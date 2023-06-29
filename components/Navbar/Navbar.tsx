@@ -120,9 +120,9 @@ export const Navbar = () => {
                                 <Link href='/' passHref>
                                     <Button onClick={onClose} as='a' variant='ghost'>Home</Button>
                                 </Link>
-                                <Link href='/projects' passHref>
+                                {/* <Link href='/projects' passHref>
                                     <Button onClick={onClose} as='a' variant='ghost'>Projects</Button>
-                                </Link>
+                                </Link> */}
                                 <Link href='/work' passHref>
                                     <Button onClick={onClose} as='a' variant='ghost'>Work</Button>
                                 </Link>
