@@ -56,8 +56,7 @@ const About = () => {
                                         Education</Heading> */}
                                     <Text as='p'>
                                         I graduated with a Degree of Bachelor of Engineering in Computer Science
-                                        from IEC College of Engineering & Technology, Greater Noida, in the year 2016 - with a
-                                        first class with distinction, class rank - 3rd, and multiple awards under my belt.
+                                        from IEC College of Engineering & Technology, Greater Noida, in the year 2016.
                                     </Text>
                                 </Stack>
                                 <Stack spacing={2}>
