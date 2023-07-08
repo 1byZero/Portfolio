@@ -1,5 +1,5 @@
 import { Box, ButtonGroup, IconButton, Link, Stack } from '@chakra-ui/react'
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiOutlineTwitter } from "react-icons/ai";
+import { AiFillBulb, AiFillGithub, AiFillInstagram, AiFillLinkedin, AiOutlineTwitter } from "react-icons/ai";
 
 type Props = {}
 
@@ -23,7 +23,7 @@ export const Sidebar = (props: Props) => {
                 <Stack spacing={6}>
                     <IconButton aria-label='Instagram' icon={<AiFillInstagram fontSize="1.5rem" />} as={Link} isExternal href='https://www.instagram.com/1_by_zero/' />
                     <IconButton aria-label='Linkedin' icon={<AiFillLinkedin fontSize="1.5rem" />} as={Link} isExternal href='https://www.linkedin.com/in/amitkumar-worf/' />
-                    <IconButton aria-label='Twitter' icon={<AiOutlineTwitter fontSize="1.5rem" />} as={Link} isExternal href='https://twitter.com/worf.in' />
+                    <IconButton aria-label='Twitter' icon={<AiFillBulb fontSize="1.5rem" />} as={Link} isExternal href='https://www.threads.net/@1_by_zero' />
                     <IconButton aria-label='Github' icon={<AiFillGithub fontSize="1.5rem" />} as={Link} isExternal href='https://github.com/1byzero' />
                 </Stack>
             </ButtonGroup>
