@@ -56,8 +56,7 @@ const About = () => {
                                         Education</Heading> */}
                                     <Text as='p'>
                                         I graduated with a Degree of Bachelor of Engineering in Computer Science
-                                        from IEC College of Engineering & Technology, Greater Noida, in the year 2016 - with a
-                                        first class with distinction, class rank - 3rd, and multiple awards under my belt.
+                                        from IEC College of Engineering & Technology, Greater Noida, in the year 2016
                                     </Text>
                                 </Stack>
                                 <Stack spacing={2}>
@@ -117,17 +116,13 @@ const About = () => {
                         <Heading bgGradient='linear(to-r, pink.200, blue.200)'
                             bgClip='text'>This is where the magic happens</Heading>
                         <Text as='p'>
-                            I&apos;m someone who has enjoyed building beautiful things almost all my life, what started
-                            as me having a natural talent in computer science, soon grew into me exploring
-                            Cyber security and then trickled into Software development. One of my first projects was when I created
-                            a music library of all my favorite songs with label covers on my local machine in 8th grade.
-                            (This obviously predated Spotify and Apple music and was kinda shady considering I obtained
-                            those songs from a pendrive shared by a friend)
+                        I'm someone who has enjoyed building beautiful things almost all my life, what started as me having a natural talent in computer science,
+                        soon grew into me exploring Cyber security and then trickled into Software development. 
+                        One of my first projects was when I created a library management application in PHP , later i built a sports betting website in my college. 
                         </Text>
                         <Text as='p'>
-                            What I did not know at the time was that my skills as an artist and developer combined with my
-                            extroverted nature and love for communicating with people will evolve into becoming some of my
-                            greatest assets.
+                        What I did not know at the time was that my skills as an security researcher and developer combined with 
+                        my ambiverted nature and love for communicating with people will evolve into becoming some of my greatest assets.
                         </Text>
                         <Text as='p'>
 
